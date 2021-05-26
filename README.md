@@ -1,10 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=300&section=header&text=Hi there 👋&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=220&section=header&text=Hi%20There👋&fontSize=70&animation=fadeIn&fontAlignY=40)
 
-- 👋 Hi, I’m @sunnyryn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+
+- 👋 Hi, I’m Hairyn
+- 👀 I’m interested in Bigdata, Artificial Intelligence
+- 🌱 I’m currently learning Python
 - 📫 How to reach me ...
+-     💌 blissful_04@naver.com
 
 <!---
 sunnyryn/sunnyryn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
