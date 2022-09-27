@@ -5,7 +5,7 @@
 - 👀 I’m interested in Bigdata, Artificial Intelligence
 - 🌱 I’m currently learning Python
 - 📫 How to reach me ...
--     💌 blissful_04@naver.com
+-     💌 sunnyryn04@naver.com
 
 <!---
 sunnyryn/sunnyryn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
